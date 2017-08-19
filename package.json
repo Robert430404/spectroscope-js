@@ -1,0 +1,29 @@
+{
+  "name": "spectroscope-js",
+  "version": "0.0.0",
+  "description": "Spectroscope JS is a utility for controlling the contract between your public API and the data backing it. It allows you to persist a public facing data structure while the source data can mutate and change as the application grows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert430404/spectroscope-js.git"
+  },
+  "keywords": [
+    "API",
+    "Transformer",
+    "transformer",
+    "fractal",
+    "presentation",
+    "api",
+    "data",
+    "structure"
+  ],
+  "author": "Robert Joseph Cox Jr <robert@studiorclv.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robert430404/spectroscope-js/issues"
+  },
+  "homepage": "https://github.com/Robert430404/spectroscope-js#readme"
+}
